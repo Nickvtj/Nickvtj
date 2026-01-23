@@ -10,7 +10,7 @@
 
 <br>
 
- ## Sobre Mim
+ # Sobre Mim
 
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="25px"> **UI/UX & Design:** Criando interfaces que encantam e funcionam.
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="25px"> **Desenvolvimento:** Transformando designs em aplicações reais.
@@ -20,7 +20,7 @@
 
 ---
 
-## Meus Status
+# Meus Status
 
 <p align="flex-start">
   <img src="https://github-readme-stats.vercel.app/api?username=Nickvtj&show_icons=true&theme=radical&hide_border=true" height="170px" />
@@ -34,7 +34,7 @@
 
 ---
 
-## Linguagens que eu uso
+# Linguagens que eu uso
 
 <p align="flex-start">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,figma,gitlab,nodejs" />
@@ -42,7 +42,7 @@
 
 ---
 
-## Contato
+# Contato
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nickvtj8@gmail.com">
