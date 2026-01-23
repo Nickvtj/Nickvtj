@@ -32,15 +32,23 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nickvtj&theme=react-dark&hide_border=true&area=true" width="800px" />
 </p>
 
----
+<br>
 
-# Linguagens que eu uso
+# Stack de Desenvolvimento
 
 <p align="flex-start">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,figma,gitlab,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,gitlab,git" />
 </p>
 
----
+<br>
+
+# Design & No-Code Tools
+
+<p align="flex-start">
+  <img src="https://skillicons.dev/icons?i=figma,ps,pr,framer,wix" />
+</p>
+
+<br>
 
 # Contato
 
@@ -55,3 +63,5 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </p>
+
+<br>
