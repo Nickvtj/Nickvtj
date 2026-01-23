@@ -4,30 +4,41 @@
   </a>
 </p>
 
+<br>
 
 # Olá, sou Nickvtj 👋
 
 > Formado em **Análise e Desenvolvimento de Sistemas** e entusiasta em **UI/UX e Design Gráfico**. Busco sempre unir a lógica do código com a sensibilidade do design para proporcionar a melhor experiência aos usuários em meus projetos.
 
-## 🚀 Sobre Mim
+<br>
+
+ ## Sobre Mim
 
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="25px"> **UI/UX & Design:** Criando interfaces que encantam e funcionam.
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="25px"> **Desenvolvimento:** Transformando designs em aplicações reais.
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Dumbbell.png" width="25px"> **Lifestyle:** Musculação e evolução constante.
 
+<br>
+
 ---
 
 ## Meus Status
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nickvtj&show_icons=true&theme=radical" />
+<p align="flex-start">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nickvtj&show_icons=true&theme=radical&hide_border=true" height="170px" />
+</p>
+
+<br>
+
+<p align="flex-start">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nickvtj&theme=react-dark&hide_border=true&area=true" width="800px" />
 </p>
 
 ---
 
 ## Linguagens que eu uso
 
-<p align="center">
+<p align="flex-start">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,figma,gitlab,nodejs" />
 </p>
 
