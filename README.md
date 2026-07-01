@@ -1,67 +1,175 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=5BCDEC&center=true&width=900&height=100&lines=Welcome+to+Nickvtj+GitHub+Profile" alt="Typing SVG" /></a>
-</p>
-
-<br>
-
-# Olá, sou Nickvtj 👋
-
-> Formado em **Análise e Desenvolvimento de Sistemas** e entusiasta em **UI/UX e Design Gráfico**. Busco sempre unir a lógica do código com a sensibilidade do design para proporcionar a melhor experiência aos usuários em meus projetos.
-
-<br>
-
- # Sobre Mim
-
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="25px"> **UI/UX & Design:** Criando interfaces que encantam e funcionam.
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="25px"> **Desenvolvimento:** Transformando designs em aplicações reais.
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Dumbbell.png" width="25px"> **Lifestyle:** Musculação e evolução constante.
-
-<br>
-
----
-
-# Meus Status
-
-<p align="flex-start">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nickvtj&show_icons=true&theme=radical&hide_border=true" height="170px" />
-</p>
-
-<br>
-
-<p align="flex-start">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nickvtj&theme=react-dark&hide_border=true&area=true" width="800px" />
-</p>
-
-<br>
-
-# Stack de Desenvolvimento
-
-<p align="flex-start">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,gitlab,git" />
-</p>
-
-<br>
-
-# Design & No-Code Tools
-
-<p align="flex-start">
-  <img src="https://skillicons.dev/icons?i=figma,ps,pr,framer,wix" />
-</p>
-
-<br>
-
-# Contato
+<!-- ===== BANNER TOPO ===== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5BCDEC,100:6C5CE7&height=200&section=header&text=Nicolas%20Vieira&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UI%2FUX%20Designer%20%7C%20Front-End%20Developer&descAlignY=58&descSize=18" width="100%" alt="Header banner"/>
 
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nickvtj8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/nicolas-vieira-83b524239/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://wa.me/55SEUNUMERO">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=5BCDEC&center=true&vCenter=true&width=600&lines=Onde+a+l%C3%B3gica+encontra+o+design;Criando+interfaces+que+encantam;Transformando+ideias+em+experi%C3%AAncias" alt="Typing SVG" />
   </a>
 </p>
 
+<!-- ===== BADGES DE PERFIL ===== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nickvtj&label=Profile%20views&color=5BCDEC&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Focus-UI%2FUX%20%26%20Front--End-6C5CE7?style=flat" alt="Focus" />
+</p>
+
 <br>
+
+<!-- ===== SOBRE MIM ===== -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:5BCDEC,100:6C5CE7&height=48&section=header&text=Sobre%20mim&fontSize=20&fontColor=ffffff" width="100%" alt="Sobre mim"/>
+
+Sou formado em **Análise e Desenvolvimento de Sistemas** e apaixonado por **UI/UX e Design Gráfico**.  
+Busco unir a **lógica do código** com a **sensibilidade do design** para entregar a melhor experiência possível ao usuário.
+
+<br>
+
+<!-- Bento Grid centralizado -->
+<!-- Bento Grid centralizado -->
+<table width="100%">
+  <tr>
+    <td width="50%" valign="middle" height="150">
+      <br>
+      <b>🎨 O que eu faço</b><br><br>
+      UI/UX, design de interfaces, protótipos e front-end com foco em experiência do usuário.
+      <br><br>
+    </td>
+    <td width="50%" valign="middle" height="150">
+      <br>
+      <b>🔥 Agora</b><br><br>
+      Explorando design systems, microinterações no Figma e interfaces mais fluidas no código.
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle" height="150">
+      <br>
+      <b>🧠 Processo</b><br><br>
+      Pesquisa → Wireframe → UI → Protótipo → Programação
+      <br><br>
+    </td>
+    <td valign="middle" height="150">
+      <br>
+      <b>☕ Fora do Figma</b><br><br>
+      Academia, café e Games.
+      <br><br>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- ===== TRABALHOS EM DESTAQUE (repos do GitHub) ===== -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:5BCDEC,100:6C5CE7&height=48&section=header&text=Trabalhos%20em%20destaque&fontSize=20&fontColor=ffffff" width="100%" alt="Trabalhos em destaque"/>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tr>
+    <!-- PokeRoll -->
+    <td width="48%" bgcolor="#161B22" valign="middle" align="center">
+      <table border="0" cellspacing="0" cellpadding="0" width="100%">
+        <tr><td bgcolor="#5BCDEC" height="4"></td></tr>
+        <tr>
+          <td align="center">
+            <br>
+            <a href="https://github.com/Nickvtj/PokeRoll" target="_blank">
+              <img src="https://img.icons8.com/fluency/72/pokeball.png" height="72" alt="PokeRoll icon"/>
+            </a>
+            <br><br>
+            <b>PokeRoll</b><br>
+            <sub>Projeto inspirado em Pokémon · Game · Front-End</sub>
+            <br><br>
+            <a href="https://github.com/Nickvtj/PokeRoll" target="_blank">
+              <img src="https://img.shields.io/badge/Ver%20repositório-5BCDEC?style=flat-square&logo=github&logoColor=0D1117" alt="Ver PokeRoll"/>
+            </a>
+            <br><br>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="4%"></td>
+    <!-- RetroBit -->
+<td width="48%" bgcolor="#161B22" valign="middle" align="center">
+  <table border="0" cellspacing="0" cellpadding="0" width="100%">
+    <tr><td bgcolor="#6C5CE7" height="4"></td></tr>
+    <tr>
+      <td align="center">
+        <br>
+        <a href="https://github.com/Nickvtj/RetroBit" target="_blank">
+          <img src="https://img.icons8.com/fluency/72/paint-palette.png" height="72" alt="RetroBit icon"/>
+        </a>
+        <br><br>
+        <b>RetroBit</b><br>
+        <sub>Arte pixel · Desenho · Estilo retro</sub>
+        <br><br>
+        <a href="https://github.com/Nickvtj/RetroBit" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20repositório-6C5CE7?style=flat-square&logo=github&logoColor=0D1117" alt="Ver RetroBit"/>
+        </a>
+        <br><br>
+      </td>
+    </tr>
+  </table>
+</td>
+  </tr>
+</table>
+
+<br>
+
+<!-- ===== STACK ===== -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:5BCDEC,100:6C5CE7&height=48&section=header&text=Tecnologias%20e%20Ferramentas&fontSize=20&fontColor=ffffff" width="100%" alt="Tecnologias e Ferramentas"/>
+
+<details open>
+  <summary><b>Desenvolvimento</b></summary>
+  <br>
+  <img src="https://cdn.simpleicons.org/html5/5BCDEC" height="36" alt="HTML"/>
+  <img src="https://img.icons8.com/ios-filled/36/5BCDEC/css3.png" alt="CSS"/>
+  <img src="https://cdn.simpleicons.org/javascript/6C5CE7" height="36" alt="JavaScript"/>
+  <img src="https://cdn.simpleicons.org/typescript/5BCDEC" height="36" alt="TypeScript"/>
+  <img src="https://cdn.simpleicons.org/nodedotjs/6C5CE7" height="36" alt="Node.js"/>
+  <img src="https://cdn.simpleicons.org/git/5BCDEC" height="36" alt="Git"/>
+  <img src="https://cdn.simpleicons.org/gitlab/6C5CE7" height="36" alt="GitLab"/>
+</details>
+
+<details open>
+  <summary><b>Design & No-Code</b></summary>
+  <br>
+  <img src="https://cdn.simpleicons.org/figma/5BCDEC" height="36" alt="Figma"/>
+  <img src="https://img.icons8.com/ios-filled/36/6C5CE7/adobe-photoshop.png" alt="Photoshop"/>
+  <img src="https://img.icons8.com/ios-filled/36/5BCDEC/adobe-premiere-pro.png" alt="Premiere"/>
+  <img src="https://cdn.simpleicons.org/framer/6C5CE7" height="36" alt="Framer"/>
+  <img src="https://cdn.simpleicons.org/wix/5BCDEC" height="36" alt="Wix"/>
+</details>
+
+<br>
+
+<!-- ===== ESTATÍSTICAS ===== -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:5BCDEC,100:6C5CE7&height=48&section=header&text=Atividade%20no%20GitHub&fontSize=20&fontColor=ffffff" width="100%" alt="Atividade no GitHub"/>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Nickvtj&theme=radical&hide_border=true&background=0D1117&ring=5BCDEC&fire=6C5CE7&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=5BCDEC" height="170px" alt="Streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nickvtj&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=5BCDEC&line=6C5CE7&point=ffffff" width="100%" alt="Activity graph" />
+</p>
+
+<br>
+
+<!-- ===== CONTATO ===== -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:5BCDEC,100:6C5CE7&height=48&section=header&text=Vamos%20conversar%3F&fontSize=20&fontColor=ffffff" width="100%" alt="Vamos conversar"/>
+
+<p align="left">
+  Aberto para freelas, colaborações e projetos de produto digital.
+</p>
+
+<p align="left">
+  <a href="https://linkedin.com/in/nicolas-vieira-83b524239/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/36/5BCDEC/linkedin.png" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:nickvtj8@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/36/5BCDEC/new-post.png" alt="Gmail"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://wa.me/55SEUNUMERO" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/36/6C5CE7/whatsapp.png" alt="WhatsApp"/>
+  </a>
+</p>
+
+<!-- ===== RODAPÉ ===== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:5BCDEC&height=120&section=footer" width="100%" alt="Footer banner"/>
