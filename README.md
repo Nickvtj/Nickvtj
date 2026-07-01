@@ -1,20 +1,6 @@
 <!-- ===== BANNER TOPO ===== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5BCDEC,100:6C5CE7&height=200&section=header&text=Nicolas%20Vieira&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UI%2FUX%20Designer%20%7C%20Front-End%20Developer&descAlignY=58&descSize=18" width="100%" alt="Header banner"/>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=5BCDEC&center=true&vCenter=true&width=600&lines=Onde+a+l%C3%B3gica+encontra+o+design;Criando+interfaces+que+encantam;Transformando+ideias+em+experi%C3%AAncias" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- ===== BADGES DE PERFIL ===== -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nickvtj&label=Profile%20views&color=5BCDEC&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Focus-UI%2FUX%20%26%20Front--End-6C5CE7?style=flat" alt="Focus" />
-</p>
-
-<br>
-
 <!-- ===== SOBRE MIM ===== -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:5BCDEC,100:6C5CE7&height=48&section=header&text=Sobre%20mim&fontSize=20&fontColor=ffffff" width="100%" alt="Sobre mim"/>
 
@@ -136,19 +122,6 @@ Busco unir a **lógica do código** com a **sensibilidade do design** para entre
   <img src="https://cdn.simpleicons.org/framer/6C5CE7" height="36" alt="Framer"/>
   <img src="https://cdn.simpleicons.org/wix/5BCDEC" height="36" alt="Wix"/>
 </details>
-
-<br>
-
-<!-- ===== ESTATÍSTICAS ===== -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:5BCDEC,100:6C5CE7&height=48&section=header&text=Atividade%20no%20GitHub&fontSize=20&fontColor=ffffff" width="100%" alt="Atividade no GitHub"/>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nickvtj&theme=radical&hide_border=true&background=0D1117&ring=5BCDEC&fire=6C5CE7&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=5BCDEC" height="170px" alt="Streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nickvtj&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=5BCDEC&line=6C5CE7&point=ffffff" width="100%" alt="Activity graph" />
-</p>
 
 <br>
 
