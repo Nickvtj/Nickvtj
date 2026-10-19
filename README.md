@@ -1,120 +1,55 @@
 <!-- ===== BANNER TOPO ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5BCDEC,100:6C5CE7&height=200&section=header&text=Nicolas%20Vieira&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UI%2FUX%20Designer%20%7C%20Front-End%20Developer&descAlignY=58&descSize=18" width="100%" alt="Header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A3A3A,100:0A0A0A&height=210&section=header&text=Nicolas%20Vieira&fontSize=58&fontColor=F5F5F5&animation=fadeIn&fontAlignY=36&desc=UI%2FUX%20Designer%20%E2%80%A2%20Front-End%20Developer&descAlignY=56&descSize=18" width="100%" alt="Nicolas Vieira"/>
 
 <!-- ===== SOBRE MIM ===== -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:5BCDEC,100:6C5CE7&height=48&section=header&text=Sobre%20mim&fontSize=20&fontColor=ffffff" width="100%" alt="Sobre mim"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:3A3A3A,100:0A0A0A&height=46&section=header&text=Sobre%20mim&fontSize=20&fontColor=CFCFCF" width="100%" alt="Sobre mim"/>
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e apaixonado por **UI/UX e Design Gráfico**.  
-Busco unir a **lógica do código** com a **sensibilidade do design** para entregar a melhor experiência possível ao usuário.
+<p align="center">
+  Sou formado em <b>Análise e Desenvolvimento de Sistemas</b> e apaixonado por <b>UI/UX e Design Gráfico</b>.<br>
+  Busco unir a <b>lógica do código</b> com a <b>sensibilidade do design</b> para entregar a melhor experiência possível ao usuário.
+</p>
 
-<br>
-
-<!-- ===== TRABALHOS EM DESTAQUE ===== -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:5BCDEC,100:6C5CE7&height=48&section=header&text=Trabalhos%20em%20destaque&fontSize=20&fontColor=ffffff" width="100%" alt="Trabalhos em destaque"/>
-
-<br>
-
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" width="80%">
-    <tr>
-      <!-- Card PokeRoll -->
-      <td width="48%" bgcolor="#161B22" valign="middle" align="center">
-        <table border="0" cellspacing="0" cellpadding="0" width="100%">
-          <tr><td bgcolor="#5BCDEC" height="4"></td></tr>
-          <tr>
-            <td align="center">
-              <br>
-              <a href="https://github.com/Nickvtj/PokeRoll" target="_blank">
-                <img src="https://img.icons8.com/fluency/72/pokeball.png" height="72" alt="PokeRoll icon"/>
-              </a>
-              <br><br>
-              <b>PokeRoll</b><br>
-              <sub>Projeto inspirado em Pokémon · Game · Front-End</sub>
-              <br><br>
-              <a href="https://github.com/Nickvtj/PokeRoll" target="_blank">
-                <img src="https://img.shields.io/badge/Ver%20repositório-5BCDEC?style=flat-square&logo=github&logoColor=0D1117" alt="Ver PokeRoll"/>
-              </a>
-              <br><br>
-            </td>
-          </tr>
-        </table>
-      </td>
-      
-<!-- Espaçamento -->
-  <td width="4%"></td>
-      
-  <!-- Card RetroBit -->
-  <td width="48%" bgcolor="#161B22" valign="middle" align="center">
-    <table border="0" cellspacing="0" cellpadding="0" width="100%">
-      <tr>
-        <td bgcolor="#6C5CE7" height="4"></td>
-      </tr>
-      <tr>
-        <td align="center">
-          <br>
-          <a href="https://github.com/Nickvtj/RetroBit" target="_blank">
-            <img src="https://img.icons8.com/fluency/72/paint-palette.png" height="72" alt="RetroBit icon"/>
-          </a>
-          <br><br>
-          <b>RetroBit</b><br>
-          <sub>Arte pixel · Desenho · Estilo retro</sub>
-          <br><br>
-          <a href="https://github.com/Nickvtj/RetroBit" target="_blank">
-            <img src="https://img.shields.io/badge/Ver%20repositório-6C5CE7?style=flat-square&logo=github&logoColor=0D1117" alt="Ver RetroBit"/>
-          </a>
-          <br><br>
-        </td>
-      </tr>
-    </table>
-  </td>
-</tr> 
-</table>
-</div>
 <br>
 
 <!-- ===== STACK ===== -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:5BCDEC,100:6C5CE7&height=48&section=header&text=Tecnologias%20e%20Ferramentas&fontSize=20&fontColor=ffffff" width="100%" alt="Tecnologias e Ferramentas"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:3A3A3A,100:0A0A0A&height=46&section=header&text=Tecnologias%20e%20Ferramentas&fontSize=20&fontColor=CFCFCF" width="100%" alt="Tecnologias e Ferramentas"/>
 
 <br>
 
-<p align="center">
-  <b>Desenvolvimento</b>
-</p>
+<p align="center"><sub><b>D E S E N V O L V I M E N T O</b></sub></p>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/html5/5BCDEC" height="36" alt="HTML"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/ios-filled/36/5BCDEC/css3.png" alt="CSS"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/6C5CE7" height="36" alt="JavaScript"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/typescript/5BCDEC" height="36" alt="TypeScript"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/angular/6C5CE7" height="36" alt="Angular"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/react/5BCDEC" height="36" alt="React"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nextdotjs/6C5CE7" height="36" alt="Next.js"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tailwindcss/5BCDEC" height="36" alt="Tailwind"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/bootstrap/6C5CE7" height="36" alt="Bootstrap"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/flutter/5BCDEC" height="36" alt="Flutter"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nodedotjs/6C5CE7" height="36" alt="Node.js"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git/5BCDEC" height="36" alt="Git"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/gitlab/6C5CE7" height="36" alt="GitLab"/>
+  <img src="https://cdn.simpleicons.org/html5/FFFFFF" height="34" alt="HTML"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios-filled/34/FFFFFF/css3.png" alt="CSS"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/FFFFFF" height="34" alt="JavaScript"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/FFFFFF" height="34" alt="TypeScript"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/angular/FFFFFF" height="34" alt="Angular"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react/FFFFFF" height="34" alt="React"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="34" alt="Next.js"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/FFFFFF" height="34" alt="Tailwind"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/bootstrap/FFFFFF" height="34" alt="Bootstrap"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/flutter/FFFFFF" height="34" alt="Flutter"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs/FFFFFF" height="34" alt="Node.js"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/FFFFFF" height="34" alt="Git"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/gitlab/FFFFFF" height="34" alt="GitLab"/>
 </p>
 
 <br>
 
-<p align="center">
-  <b>Design & No-Code</b>
-</p>
+<p align="center"><sub><b>D E S I G N &nbsp; & &nbsp; N O - C O D E</b></sub></p>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/figma/5BCDEC" height="36" alt="Figma"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/ios-filled/36/6C5CE7/adobe-photoshop.png" alt="Photoshop"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/ios-filled/36/5BCDEC/adobe-premiere-pro.png" alt="Premiere"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/framer/6C5CE7" height="36" alt="Framer"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/wix/5BCDEC" height="36" alt="Wix"/>
+  <img src="https://cdn.simpleicons.org/figma/FFFFFF" height="34" alt="Figma"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios-filled/34/FFFFFF/adobe-photoshop.png" alt="Photoshop"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios-filled/34/FFFFFF/adobe-premiere-pro.png" alt="Premiere"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/framer/FFFFFF" height="34" alt="Framer"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/wix/FFFFFF" height="34" alt="Wix"/>
 </p>
 
 <br>
 
 <!-- ===== CONTATO ===== -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:5BCDEC,100:6C5CE7&height=48&section=header&text=Vamos%20conversar%3F&fontSize=20&fontColor=ffffff" width="100%" alt="Vamos conversar"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:3A3A3A,100:0A0A0A&height=46&section=header&text=Vamos%20conversar%3F&fontSize=20&fontColor=CFCFCF" width="100%" alt="Vamos conversar"/>
 
 <p align="center">
   Aberto para freelas, colaborações e projetos de produto digital.
@@ -122,15 +57,12 @@ Busco unir a **lógica do código** com a **sensibilidade do design** para entre
 
 <p align="center">
   <a href="https://linkedin.com/in/nicolas-vieira-83b524239/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/36/5BCDEC/linkedin.png" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
   <a href="mailto:nickvtj8@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/36/5BCDEC/new-post.png" alt="Gmail"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/E--mail-1A1A1A?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+  </a>&nbsp;
   <a href="https://wa.me/55SEUNUMERO" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/36/6C5CE7/whatsapp.png" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/WhatsApp-1A1A1A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
-
-<!-- ===== RODAPÉ ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:5BCDEC&height=120&section=footer" width="100%" alt="Footer banner"/>
