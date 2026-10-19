@@ -61,8 +61,6 @@
   </a>&nbsp;
   <a href="mailto:nickvtj8@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/E--mail-1A1A1A?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
-  </a>&nbsp;
-  <a href="https://wa.me/55SEUNUMERO" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-1A1A1A?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
+
